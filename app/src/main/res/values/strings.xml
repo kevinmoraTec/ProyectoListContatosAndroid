@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">App_Contact_</string>
+    <string name="activity_detail_contact_city">Ciudad</string>
+    <string name="activity_detail_contact_description">Descripcion</string>
+    <string name="activity_list_contact_no_items">No hay datos</string>
+</resources>
