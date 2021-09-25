@@ -1,6 +1,16 @@
 <resources>
-    <string name="app_name">App_Contact_</string>
+    <string name="app_name">Agenda de Contactos</string>
+    <string name="activity_list_contact_no_items">No hay contactos</string>
+    <string name="activity_detail_contact_description">Descripción</string>
     <string name="activity_detail_contact_city">Ciudad</string>
-    <string name="activity_detail_contact_description">Descripcion</string>
-    <string name="activity_list_contact_no_items">No hay datos</string>
+    <string name="contacto_nuevo">Contacto Nuevo</string>
+    <string name="nombre">Nombre</string>
+    <string name="descripcion">Descripción</string>
+    <string name="numero">Número</string>
+    <string name="ciudad">Ciudad</string>
+    <string name="foto">Foto</string>
+    <string name="guardar">Guardar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="editar">Editar</string>
+    <string name="editar_contacto">Editar Contacto</string>
 </resources>
